@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+}
+
+h1 {
+    font-family: "Playfair Display", sans-serif;
+    color: red;
+}
+
+h2 {
+    font-family: "Playfair Display", sans-serif;
+    color: red;
+}
+
+p {
+    color: white;
+}
+
+img {
+    display: block;
+    margin-right: ;
+    border: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
